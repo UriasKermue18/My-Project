@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(234, 245, 252);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+  }
+  
+  img {
+    height: 282px;
+    border-radius: 5%;
+    width: 288px;
+  }
+  
+  .barcode {
+    width: 309px;
+    height:448px;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .barcode h3 {
+    font-size: 18px;
+    /* margin-left: 10px; */
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .barcode p {
+    font-size: 16px;
+    margin-top: -8px; 
+    text-align: center;
+  }
+  
+  .attribution {
+    margin-top: 25px;
+  }
