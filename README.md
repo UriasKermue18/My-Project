@@ -1,2 +1,2 @@
 # My-Project
-This a place whre I store or upload all of the projects that I have done sincerely.
+This is where I upload all of the projects I have done sincerely.
